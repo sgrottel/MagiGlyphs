@@ -1,5 +1,5 @@
-# MagiGlyphs
-The MagiGlyphs project aims at creating a free mobile game.
+# MagiGlyphs™   <img src="./icon/MagiGlyphs_x48.png" alt="MagiGlyphs Icon" align="left">
+The MagiGlyphs™ project aims at creating a free mobile game.
 
 
 ## Gameplay
